@@ -5,13 +5,15 @@ doskey eas="C:\Program Files"\Emacs\x86_64\bin\emacs D:\workspace\bin\aliases.ba
 doskey sas=call D:\workspace\bin\aliases.bat
 
 
-echo " .. git - log add sts commit diff br fetch rebase"
+echo " .. git - log add co sts commit diff br fetch rebase"
 doskey log=git log --oneline --all --graph --decorate $*
 doskey add=git add $*
+doskey co=git checkout $*
 doskey sts=git status $*
 doskey commit=git commit $*
 doskey diff=git diff $*
-doskey br=git brancch --show-current
+doskey br=git branch --show-current
+doskey bra=git branch --all
 doskey fetch=git fetch $*
 doskey rebase=git rebase $*
 
@@ -27,11 +29,8 @@ echo " navigation - up, .., ..., ws, tmp, logs"
 doskey up=cd ..
 doskey ..=cd ..\ $*
 doskey ...=cd ..\..\ $*
-doskey ws=cd D:\workspace\TrackVFX
-doskey tk=cd D:\workspace\TrackVFX\tk
-doskey cfg=cd D:\workspace\TrackVFX\tk\tk-basic2-deflect
-doskey tk-ingest=cd D:\workspace\TrackVFX\tk\tk-multi-ingest
-doskey tk-delivery=cd D:\workspace\TrackVFX\tk\tk-multi-delivery
+doskey ws=cd D:\workspace\FractalPicture
+doskey tk=cd D:\workspace\TrackVFX\swdist\dev_share\mgangaiwar\tk
 
 echo "Applications - emacs, pyuic, nuke, pyside-uic, pyuic-sg, 7z"
 doskey emacs="C:\Program Files"\Emacs\x86_64\bin\emacs $*
@@ -54,9 +53,19 @@ doskey fp-ipython="C:\Users\mahen\AppData\Roaming\Python\Python37\Scripts\ipytho
 doskey sg-python3="C:\Program Files"\Shotgun_Qt5\Python3\python.exe $*
 
 doskey sg-deploy=C:\Python27\python.exe D:\workspace\pybin\sg_deploy $*
+doskey deploy=C:\Python27\python.exe D:\workspace\pybin\sg_deploy --group prod --deploy $*
+doskey deploy-alpha=C:\Python27\python.exe D:\workspace\pybin\sg_deploy --group alpha --deploy $*
 
 echo ".. python_sg, python3_sg"
-doskey python_sg="C:\Program Files"\Shotgun_Qt5\Python\python.exe $*
-doskey python3_sg="C:\Program Files"\Shotgun_Qt5\Python3\python.exe $*
+doskey python_sg="C:\Program Files"\Shotgun17\Python\python.exe $*
+doskey python3_sg="C:\Program Files"\Shotgun17\Python3\python.exe $*
 doskey ipython3_sg="C:\Users\mahen\AppData\Roaming\Python\Python37\Scripts\ipython.exe" $*
 doskey ipython_sg="C:\Users\mahen\AppData\Roaming\Python\Scripts\ipython2.exe" $*
+
+echo ".. sg"
+doskey sg="C:\Program Files\Shotgun17\Shotgun.exe" $*
+
+echo ".. maya, maya22, maya22_3"
+doskey maya="C:\Program Files\Autodesk\Maya2020\bin\maya.exe $*"
+doskey maya22="C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 2 $*
+doskey maya22_3="C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 3 $*

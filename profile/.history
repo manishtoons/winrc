@@ -7824,3 +7824,562 @@ ll python\ghost\
 ll python\ghost\ghost_collector.py 
 less python\ghost\ghost_collector.py 
 ipconfig.exe 
+eixt
+exit
+ll python\ghost\ghost_collector.py 
+less python\ghost\ghost_collector.py 
+ipconfig.exe 
+cd bin\
+ll
+git init
+git statyus
+git status
+git add .
+less sg_deploy.bat 
+less startup.bat 
+sts
+git commit -m "local to repo"
+git branch -M main
+git remote add origin git@github.com:manishtoons/winrc.git
+git push -u origin main 
+clink.bat 
+ipython_sg 
+ipython_sg --profile=na
+"C:\Program Files\Nuke11.3v3\Nuke11.3.exe" -t D:\workspace\FractalPicture\toolkit\fp-circuits\python\fp_circuits\publish\review\nuke_renderer.py D:\test_footages\The_Hobbit.mp4 -template D:\workspace\FractalPicture\toolkit\fp-utils\python\slate\slate.nk -output J:\firstman\assets\character\ztestAssetTech\publish\review\mdl\review\ztestAssetTech_review_main_def_lo\v001\mov\ztestAssetTech_review_mdl_review_main_def_lo_v001.mov -start-frame 1001 -end-frame 1024 -fps 24.0 -topcenter firstman -bottomleft ztestAssetTech_review_mdl_review_main_def_lo_v001 -job firstman -shot ztestAssetTech -shot_type Character -fields "Stage=mdl;Version#=001;" -version_name ztestAssetTech_review_mdl_review_main_def_lo_v001 -submission_for "Final review"
+rm J:\firstman\assets\character\ztestAssetTech\publish\review\mdl\review\ztestAssetTech_review_main_def_lo\v001\mov\ztestAssetTech_review_mdl_review_main_def_lo_v001.mov 
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+ipython_sg 
+ipython_sg --profile=na
+tk
+cd tk-postman\
+ll postman\
+git rm postman --cached
+ll
+git add postman\
+git commit -m "cleanup and restucture"
+sts
+git push origin master 
+ll postman\
+git rm postman --cached
+git add postman\
+git commit -m "cleanup and restucture"
+git push origin master 
+tk
+ls *del*
+cd tvfx-delivery-framework\
+ll python\
+ll python\ghost\
+ll python\ghost\ghost_collector.py 
+less python\ghost\ghost_collector.py 
+ipconfig.exe 
+cd FractalPicture\
+cd to
+cd toolkit\
+ll
+git status
+git checkout FIRSTMAN-11_review
+git checkout -b FIRSTMAN-11_review
+cd fp-utils\
+git push origin FIRSTMAN-11_review 
+,,
+cd fp-circuits\
+git log
+qa
+cd tk-fp-config\=\]]=kjhjxjnz
+241
+cd tk-multi-workfiles2\
+sg_deploy --group prod --version 0.13.1
+sg_deploy --group prod --version 0.13.1 --deploy
+git tag
+git tag -a "v0.13.1" 
+git push origin v0.13.1
+sg_deploy --group prod -ls
+..
+cd tk-fp-config\
+git diff
+sts
+git add env\includes\fp_app_locations.yml 
+git commit -m "using custom workfile app"
+git push origin main 
+git push origin master 
+tk
+ls *del*
+cd tvfx-delivery-framework\
+ll python\
+ll python\ghost\
+ll python\ghost\ghost_collector.py 
+less python\ghost\ghost_collector.py 
+ipconfig.exe 
+eixt
+exit
+cd FractalPicture\toolkit\
+ll tk-multi-workfiles2\
+git remote -0v
+git remote -v
+git status
+cd tk-fp-config\
+git checkout main 
+git pull
+git log
+..
+cd tk-multi-workfiles2\
+sg_deploy --init
+ls -l
+ls
+ls tests\
+ll
+less app.py 
+git add sg_deploy.yml 
+git restore --staged sg_deploy.yml 
+sts
+]'
+\
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+pyuic5_sg.bat resources\pf_settings.ui -o python\fp_circuits\pf_ui\pf_settings_form.py
+cd tk-multi-workfiles2\
+sg_deploy --init
+ls -l
+ls
+ls tests\
+less app.py 
+git add sg_deploy.yml 
+git restore --staged sg_deploy.yml 
+]'
+\
+speedtest
+cd FractalPicture\
+cd toolkit\tk-multi-workfiles2\
+git add python\tk_multi_workfiles\actions\file_action.py python\tk_multi_workfiles\actions\new_file_action.py
+git commit -m "handling stale Filesystem entities in file_action instead of new_file_action"
+git push origin master 
+sg_deploy --group prod --deploy --version 0.13.1
+git tag -a "v0.13.1" --force
+git push origin v0.13.1
+git push origin v0.13.1 --force
+sg_deploy --group prod -ls
+cd tk-fp-config\
+git diff
+git add env\includes\fp_app_locations.yml env\includes\settings\tk-multi-workfiles2.yml 
+git commit -m "optimized workfile settings, workfile updates"
+git push origin main 
+less sg_deploy.yml 
+nano sg_deploy.yml 
+vim sg_deploy.yml 
+sg_deploy --group Primary -ls
+sg_deploy --group Primary --deploy
+ll
+git checkout FIRSTMAN-10_publish 
+git checkout FIRSTMAN-11_review 
+cd fp-circuits\
+..
+cd fp-utils\
+sts
+cd -
+cd -
+pyuic5_sg.bat resources\pf_settings.ui -o python\fp_circuits\pf_ui\pf_settings_form.py
+git push origin v0.13.1
+git push origin v0.13.1 --force
+sg_deploy --group prod -ls
+cd tk-fp-config\
+git add env\includes\fp_app_locations.yml env\includes\settings\tk-multi-workfiles2.yml 
+git commit -m "optimized workfile settings, workfile updates"
+git push origin main 
+nano sg_deploy.yml 
+vim sg_deploy.yml 
+sg_deploy --group Primary -ls
+ll
+git checkout FIRSTMAN-10_publish 
+git checkout FIRSTMAN-11_review 
+cd fp-circuits\
+cd fp-utils\
+cd -
+tk
+cd tvfx-distortion\
+git add python\tk_multi_distortion\app.py 
+git commit -m "added more identifiers for ud and re stamaps"
+sg_deploy --group alpha --deploy
+git push 
+git tag
+git push --tags
+cd tk-basic2-deflect\
+got diff
+sts
+git diff
+git add env\includes\app_locations.yml 
+git commit -m "distortion app - v1.0.06"
+git push origin master 
+less sg_deploy.yml 
+sg_deploy --group Primary --deploy
+git branch
+..
+cd tk-postman\
+git branch -a
+git fetch
+git checkout -b LRX-32-publish_to_work origin/LRX-32-publish_to_work
+git log
+tmux
+log
+logs
+C:
+ll
+tail -f tk-desktop.log
+tail -f tk-desktop.log
+cd -
+D:
+cd workspace\FractalPicture\toolkit\fp-circuits\
+ll
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+cd FractalPicture\toolkit\tk-fp-config\
+sts
+less sg_deploy.yml 
+sg_deploy --group Primary --deploy
+git branch
+git branch -a
+git fetch
+git checkout -b LRX-32-publish_to_work origin/LRX-32-publish_to_work
+tmux
+logs
+C:
+ll
+tail -f tk-desktop.log
+tail -f tk-desktop.log
+cd -
+D:
+cd workspace\FractalPicture\toolkit\fp-circuits\
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+cd FractalPicture\toolkit\tk-fp-config\
+ss
+git log --inline
+git log 
+git log --help
+git log -inline
+git log -in-line
+git log --in-line
+git checkout FIRSTMAN-11_review 
+git checkout -b 11_merge_main
+llog
+git rebase main 
+git rebase --abort 
+git checkout main 
+git branch -D 11_merge_main 
+git checkout -b main_merge_11_temp
+log
+git merge FIRSTMAN-11_review 
+tk
+..
+cd apps\
+ll
+git clone https://github.com/microsoft/vcpkg
+cd vcpkg\
+bootstrap-vcpkg.bat 
+vcpkg.exe install openimageio
+ws
+cd tk
+cd tk-postman\
+git log
+git checkout master 
+gsts
+git diff
+git checkout LRX-32-publish_to_work 
+sts
+sg_deploy --group Primary --deploy
+git branch
+cd tk-postman\
+git branch -a
+git fetch
+git checkout -b LRX-32-publish_to_work origin/LRX-32-publish_to_work
+git log
+tmux
+log
+logs
+C:
+ll
+tail -f tk-desktop.log
+tail -f tk-desktop.log
+cd -
+cd workspace\FractalPicture\toolkit\fp-circuits\
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+cd FractalPicture\toolkit\tk-fp-config\
+sts
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" --help
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 3
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" 
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 2
+maya
+maya22
+maya22_3
+cd C:\Users\mahen\Downloads\
+ws
+D:
+cd apps\
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp3* .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp39-cp39-win_amd64.whl .
+python
+python2
+python3
+python3_sg -m pip
+cd workspace\
+mkdir pybin3
+cd pybin3
+python3_sg -m pip install D:\apps\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl -t .
+
+..
+set SHOTGUN_PYTHON_VERSION=3
+sas
+cd pybin3\
+set SHOTGUN_PYTHON_VERSION=2
+sg
+l
+python3_sg 
+cp C:\Users\mahen\Downloads\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl D:\apps\
+
+python3_sg -m pip install D:\apps\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl -t .
+ll
+python3_sg
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --install-dir .
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --help
+logs
+C:
+ll
+tail -f tk-desktop.log
+less tk-desktop.log
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" --help
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 3
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" 
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 2
+maya
+maya22
+maya22_3
+cd C:\Users\mahen\Downloads\
+ws
+cd apps\
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp3* .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp39-cp39-win_amd64.whl .
+python
+python2
+python3
+python3_sg -m pip
+cd workspace\
+mkdir pybin3
+cd pybin3
+python3_sg -m pip install D:\apps\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl -t .
+set SHOTGUN_PYTHON_VERSION=3
+sas
+cd pybin3\
+set SHOTGUN_PYTHON_VERSION=2
+sg
+l
+python3_sg 
+cp C:\Users\mahen\Downloads\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl D:\apps\
+python3_sg -m pip install D:\apps\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl -t .
+ll
+python3_sg
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --install-dir .
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --help
+logs
+C:
+tail -f tk-desktop.log
+less tk-desktop.log
+cd FractalPicture\toolkit\tk-fp-config\
+git commit --ammend
+git amend
+git commit --amend -m "Making source file publish path fields options to let workfile app pickup paths"
+git push origin main_merge_11_temp 
+git checkout main
+git merge main_merge_11_temp --no-commit
+git push origin main
+git branch -d main_merge_11_temp 
+git branch -d origin/main_merge_11_temp 
+git push origin --delete origin/main_merge_11_temp
+git push -d origin main_merge_11_temp
+cd fp-utils\
+git log
+cd fp-circuits\
+git checkout main 
+git merge --help
+git merge FIRSTMAN-11_review --no-commit
+git commit
+git status
+git push origin main 
+cd C:\Users\mahen\AppData\Roaming\Shotgun\trackvfx\p86c132.basic.shotgun\cfg
+cd C:\Users\mahen\AppData\Roaming\Shotgun\fractalpicture\p320c67.basic.shotgun\cfg
+tank'
+tree -f
+tree /f
+..
+cd trackvfx\p86c132.basic.shotgun\
+cd cfg\
+ll config\
+ll config\core\
+less config\core\pipeline_configuration.yml 
+tank
+tank shell
+tk
+D:
+cd tk-postman\
+# git add postman\source\postman\hooks\publish_upload.py
+git diff
+git add postman\source\postman\hooks\publish_upload.py
+git commit -m "not uploading files if DONT_UPLOAD property is set in publishing"
+git checkout master 
+git merge LRX-32-publish_to_work --no-commit
+git push origin master 
+ll
+sts
+sg
+l
+python3_sg 
+cp C:\Users\mahen\Downloads\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl D:\apps\
+python3_sg -m pip install D:\apps\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl -t .
+ll
+python3_sg
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --install-dir .
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --help
+logs
+C:
+ll
+tail -f tk-desktop.log
+less tk-desktop.log
+pyuic5_sg.bat python\fp_circuits\publish\review\resource\review_settings.ui -o python\fp_circuits\publish\review\settings\review_settings_ui.py
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" --help
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 3
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" 
+"C:\Program Files\Autodesk\Maya2022\bin\maya.exe" -pythonver 2
+maya
+maya22
+maya22_3
+cd C:\Users\mahen\Downloads\
+ws
+cd apps\
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp3* .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl .
+cp C:\Users\mahen\Downloads\OpenImageIO-2.2.8.0-cp39-cp39-win_amd64.whl .
+python
+python2
+python3
+python3_sg -m pip
+cd workspace\
+mkdir pybin3
+cd pybin3
+python3_sg -m pip install D:\apps\OpenImageIO-2.2.8.0-cp37-cp37m-win_amd64.whl -t .
+set SHOTGUN_PYTHON_VERSION=3
+sas
+cd pybin3\
+set SHOTGUN_PYTHON_VERSION=2
+sg
+l
+python3_sg 
+cp C:\Users\mahen\Downloads\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl D:\apps\
+python3_sg -m pip install D:\apps\OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl -t .
+ll
+python3_sg
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --install-dir .
+python3_sg D:\apps\fileseq-1.13.0\setup.py install --help
+logs
+C:
+tail -f tk-desktop.log
+less tk-desktop.log
+cd FractalPicture\toolkit\tk-fp-config\
+git amend
+git commit --amend -m "Making source file publish path fields options to let workfile app pickup paths"
+git push origin main_merge_11_temp 
+git checkout main
+git merge main_merge_11_temp --no-commit
+git push origin main
+git branch -d main_merge_11_temp 
+git branch -d origin/main_merge_11_temp 
+git push origin --delete origin/main_merge_11_temp
+git push -d origin main_merge_11_temp
+git checkout main 
+git merge --help
+git merge FIRSTMAN-11_review --no-commit
+git push origin main 
+cd C:\Users\mahen\AppData\Roaming\Shotgun\trackvfx\p86c132.basic.shotgun\cfg
+cd C:\Users\mahen\AppData\Roaming\Shotgun\fractalpicture\p320c67.basic.shotgun\cfg
+tank'
+tree -f
+tree /f
+cd trackvfx\p86c132.basic.shotgun\
+cd cfg\
+ll config\
+ll config\core\
+less config\core\pipeline_configuration.yml 
+tank
+tank shell
+D:
+# git add postman\source\postman\hooks\publish_upload.py
+git add postman\source\postman\hooks\publish_upload.py
+git commit -m "not uploading files if DONT_UPLOAD property is set in publishing"
+cd FractalPicture\toolkit\
+ls
+cd fp-third-party\
+:: sg_deploy --group prod --deploy
+ll python\
+ll bin\
+
+cd fp-utils\
+:: sg_deploy --group prod -ls
+cd fp-circuits\
+ll
+sg_deploy --group prod --deploy --version 0.0.08
+git push origin v0.0.08
+git push origin v0.0.08 --force
+diff sg_deploy.yml 
+cd tk-fp-config\
+git add env\includes\fp_app_locations.yml env\includes\frameworks.yml 
+git commit -m "circuit - 0.0.08, utils - 0.0.08"
+git branch --contains b9f6549
+git show b9f6549
+tk
+cd tk-postman\
+ll 
+less app.py
+sg_deploy --group prod 
+git commit -m "postman - 0.0.08"
+gir rm --cached deflect-maya/maya/modules/Linux/2020/mayaMatchMoveSolver-0.3.13-maya2020-linux*
+gir rm --cached deflect-maya/maya/modules/Linux/2020/mayaMatchMoveSolver-0.3.13-maya2020-linux
+git rm --cached deflect-maya/maya/modules/Linux/2020/mayaMatchMoveSolver-0.3.13-maya2020-linux*
+ deflect-maya\maya\modules\Linux\2020\mayaMatchMoveSolver-0.3.14-maya2020-linux
+ls deflect-maya/maya/modules/Linux/2020/
+git add deflect-maya/maya/modules/Linux/2020/
+git commit -m "upgraded mmSolver to 0.3.14"
+sg_deploy --group prod --deploy
+git add env\includes\app_locations.yml 
+git commit -m "m
+git commit --ammend
+git commit --amend
+cd tk-tvfx-maya\
+sg_deploy --group prod -ls
+cd tk-basic2-deflect\
+git push 
+st
+git checkout master 
+git merge LRX-32-publish_to_work --no-commit
+less hooks/tk-multi-launchapp/before_app_launch.py
+git status
+git commit
+git diff
+git add core\core_api.yml env\includes\app_locations.yml env\includes\engine_locations.yml env\includes\frameworks.yml 
+
+sg_deploy --group Primary --deploy
+start .
+less sg_deploy.yml 
+sg_deploy --group Beta --deploy
+sg_deploy --group Beta --deploy --version 1.16.56
+git add env\includes\engine_locations.yml 
+git commit -m "using 2.5.13 desktop"
+git push origin master 
+sg_deploy --group Beta --deploy --version 1.16.57
+..
+cd tvfx-distortion\
+sts
+git pull
+git log
+speedtest
+clink
+clink autorun 
+clink autorun --help
+clink autorun uninstall
